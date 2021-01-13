@@ -7,4 +7,8 @@ feature 7: support ipad resolutions#apple_feture_1
 =======
 #adding Feature 3
 #adding Feature 4
+<<<<<<< HEAD
 >>>>>>> 50b0441... c4
+=======
+#adding Feature 5
+>>>>>>> 2b380d5... c5
