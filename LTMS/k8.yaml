@@ -1,0 +1,17 @@
+---
+apiVersion: v1
+kind: Pods
+metadata: 
+  name: "lathagittest"
+spec:
+  - contianers:
+      image: " jenkins"
+      name: "lathagitest"
+    ContainerPort:
+      - ContainerPort: 8080
+        protocol: TCP
+    resources:
+      limit:
+        cpu:
+        memory:
+      
