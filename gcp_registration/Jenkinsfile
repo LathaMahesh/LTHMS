@@ -1,0 +1,15 @@
+pipeline{
+    agent any 
+    stage("git clone"){
+        steps {
+
+        }
+    }
+    stage('gcp registration') {
+        steps {
+
+        }
+    }
+
+    }
+}
